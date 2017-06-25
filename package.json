@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "mongoose": "^4.11.0",
+    "request": "^2.81.0",
     "shortid": "^2.2.8"
   }
 }
